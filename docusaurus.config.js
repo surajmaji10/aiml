@@ -90,8 +90,13 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/akashmaji946/',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://linkedin.com/in/akashmaji946/',
+            label: 'LinkedIn',
             position: 'right',
           },
         ],
@@ -100,29 +105,48 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'CONTENT',
             items: [
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+
+
             ],
           },
           {
-            title: 'Community',
+            title: 'LINKS',
             items: [
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              // },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/docusaurus',
+              // },
+              // {
+              //   label: 'X',
+              //   href: 'https://x.com/docusaurus',
+              // },
+
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://github.com/akashmaji946/',
+                label: 'GitHub',
+                position: 'right',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://linkedin.com/in/akashmaji946/',
+                label: 'LinkedIn',
+                position: 'right',
               },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+
             ],
           },
           {
