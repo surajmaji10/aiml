@@ -1,15 +1,11 @@
 ---
-slug: see-me
-title: See Me
+slug: index-blog
+title: Index Blog Post
 authors: [akashmaji945]
-tags: [aiml, facebook, hello, docusaurus]
+tags: [aiml, docusaurus]
 ---
 
-lorem
-jasFKjasklf
-alksfjdklasjcfck
-lskafjklasjf
-dsfkjjsdkjl
+I am happy with Index
 
 <!-- truncate -->
 
