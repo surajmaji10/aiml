@@ -132,7 +132,7 @@ export default {
     },
     "prism": {
       "theme": {
-        "plain": 
+        "plain": {
           "color": "#393A34",
           "backgroundColor": "#f6f8fa"
         },
