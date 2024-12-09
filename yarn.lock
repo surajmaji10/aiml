@@ -1968,7 +1968,7 @@
 
 "@easyops-cn/docusaurus-search-local@^0.46.1":
   version "0.46.1"
-  resolved "https://registry.npmjs.org/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.46.1.tgz"
+  resolved "https://registry.yarnpkg.com/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.46.1.tgz#7fac1a14417de680b5af7088814192a153d7334d"
   integrity sha512-kgenn5+pctVlJg8s1FOAm9KuZLRZvkBTMMGJvTTcvNTmnFIHVVYzYfA2Eg+yVefzsC8/cSZGKKJ0kLf8I+mQyw==
   dependencies:
     "@docusaurus/plugin-content-docs" "^2 || ^3"

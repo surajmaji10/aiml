@@ -357,14 +357,23 @@ export default {
       "maxHeadingLevel": 3
     }
   },
-  "themes": [
+  themes: [
+    // ... Your other themes.
     [
-      "C:\\Users\\akash\\Desktop\\my-website\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
-      {
-        "hashed": true
-      }
-    ]
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        // language: ["en", "zh"],
+        // ```
+      }),
+    ],
   ],
+
   "baseUrlIssueBanner": true,
   "future": {
     "experimental_faster": {
