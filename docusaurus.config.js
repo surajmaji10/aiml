@@ -63,7 +63,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Portfolio",
         },
         {
           "to": "/blog",
@@ -91,7 +91,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/docs/Introduction/intro"
             },
             {
               "label": "Blog",
