@@ -128,11 +128,11 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Akash Maji. Built with Docusaurus."
     },
     "prism": {
       "theme": {
-        "plain": {
+        "plain": 
           "color": "#393A34",
           "backgroundColor": "#f6f8fa"
         },
