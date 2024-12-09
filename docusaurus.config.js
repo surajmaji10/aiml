@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Akash Maji',
   tagline: 'Simplicity is the best Sophistication',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/image.svg',
 
   // Set the production url of your site here
   url: 'https://surajmaji10.github.io',
@@ -79,7 +79,7 @@ const config = {
         title: 'Akash Maji',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/image.svg',
         },
         items: [
           {
