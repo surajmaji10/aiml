@@ -3,10 +3,21 @@ aiml:
   permalink: /aiml
   description: Artificial Intelligence and Machine Learning
 
+python:
+  label: python
+  permalink: /python
+  description: The language of the many
+
+pandas:
+  label: pandas
+  permalink: /pandas
+  description: The tool of the aiml community
+
 facebook:
   label: Facebook
   permalink: /facebook
   description: Facebook tag description
+
 
 hello:
   label: Hello
